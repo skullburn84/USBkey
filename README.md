@@ -7,6 +7,6 @@ récupération données d'une ancienne clé USB
 
 Outil utilisé :
 -	Autopsy : investigation
-	Récupération de fichier supprimer datant de 2018 à 2016 (fichier visible JPG)
+  Récupération de fichier supprimer datant de 2018 à 2016 (fichier visible JPG)
 -	TestDisk : récupération de partition de fichier
-	Décrypté les fichiers illisibles
+  Décrypté les fichiers illisibles
