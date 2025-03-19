@@ -11,3 +11,6 @@ Outil utilisé :
   Récupération de fichier supprimer datant de 2018 à 2016 (fichier visible JPG)
 -	TestDisk : récupération de partition de fichier
   Décrypté les fichiers illisibles
+
+  source: 
+  - https://www.youtube.com/watch?v=Od6VAKkDPP0&ab_channel=GuillaumeN.
